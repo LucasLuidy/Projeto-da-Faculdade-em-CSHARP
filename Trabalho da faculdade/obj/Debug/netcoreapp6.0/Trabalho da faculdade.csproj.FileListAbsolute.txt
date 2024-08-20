@@ -1,0 +1,18 @@
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/bin/Debug/netcoreapp6.0/Trabalho da faculdade
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/bin/Debug/netcoreapp6.0/Trabalho da faculdade.deps.json
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/bin/Debug/netcoreapp6.0/Trabalho da faculdade.runtimeconfig.json
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/bin/Debug/netcoreapp6.0/Trabalho da faculdade.dll
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/bin/Debug/netcoreapp6.0/Trabalho da faculdade.pdb
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/bin/Debug/netcoreapp6.0/Newtonsoft.Json.dll
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.csproj.AssemblyReference.cache
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.GeneratedMSBuildEditorConfig.editorconfig
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.AssemblyInfoInputs.cache
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.AssemblyInfo.cs
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.csproj.CoreCompileInputs.cache
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.sourcelink.json
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.csproj.CopyComplete
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.dll
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/refint/Trabalho da faculdade.dll
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.pdb
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/Trabalho da faculdade.genruntimeconfig.cache
+/home/luidy/Trabalho-Faculdade-em-CSHARP/Trabalho da faculdade/obj/Debug/netcoreapp6.0/ref/Trabalho da faculdade.dll
